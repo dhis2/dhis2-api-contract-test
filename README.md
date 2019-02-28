@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dhis2/dhis2-api-contract-test.svg)](https://greenkeeper.io/)
+
 POC IS STILL IN PROGRESS - NOWHERE NEAR DONE; 
 
 Used for testing of DHIS2 API schema. 
